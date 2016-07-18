@@ -1,0 +1,105 @@
+﻿
+1	45.2383760133051	19.62259197724609	OŠ 'Veljko Petrović'	Begeč, Kralja Petra I br. 36
+2	45.240869044004	19.622119908459467	Dom kulture 'Begeč' (mala sala)	Begeč, Kralja Petra I br. 1
+3,4,5	45.2370977	19.70635593	Kulturni centar 'Mladost'	Futog, Sime Šolaje br. 52
+6	45.23797392	19.70308328	Vatrogasni dom	Futog, Cara Lazara br. 13
+7	45.23772083	19.70381821	Klub penzionera	Futog, Cara Lazara br. 22
+8,9,10	45.23604094	19.71927077	Dom Mesne zajednice (kancelarija 1)(velika sala)(kancelarija 2)	Futog, Cara Lazara br. 141
+11,12,13	45.24006953	19.72919151	OŠ 'Miroslav Antić'	 Futog, Rade Končara br. 2 
+14	45.4137208	19.6995472	MZ 'Stepanovićevo'	 Stepanovićevo, Vojvode Stepe  Stepanovića br. 112 
+15,16,17,18,20,21,193 	45.25334531	19.75542306	OŠ 'Mihajlo Pupin'	 Veternik, Kralja Aleksandra br. 38 
+19	45.249162	19.755112	MZ 'Veternik' (velika sala)	 Veternik, Ive Lole Ribara br. 1a 
+22,24 	45.23398087	19.78690563	MZ 'Adice' (velika sala)	 Novi Sad, Sima Šolaje 2a 
+23,197	45.2415625	19.7853309	SŠ 'Dositej Obradović'	 Novi Sad, Suvoborska br. 6 
+25,26,27,28,29,30,31,32 	45.24767364959767	19.796655211778216	OŠ 'Miloš Crnjanski'	 Novi Sad, Anđe Ranković br. 2 
+33,34,35 	45.23349289999999	19.81540270000005	MZ 'Južni Telep'	 Novi Sad, Janošikova br. 1a 
+36	45.2433105	19.80212449999999	MZ 'Bratstvo -Telep'	 Novi Sad, Ilariona Ruvarca br. 18a 
+37,38 	45.23767184525941	19.807727370591692	OŠ 'Jožef Atila'	 Novi Sad, Šarplaninska  br. 28 
+39,40,41 	45.24557645385777	19.81796411653295	MZ 'Nikola Tesla - Telep'	 Novi Sad, Geri Karolja br.5 
+42,45 	45.25200172278696	19.87207521022799	OŠ 'Jovan Dučić'	 Petrovaradin, Preradovićeva br.6 
+43,44 	45.25241713584744	19.871841858043695	 MZ 'Petrovaradin' (velika sala),(mala sala) 	 Petrovaradin, Čajkovskog br. 1a 
+46	45.252697	19.874418	MZ 'Petrovaradin'	 Petrovaradin, Patrijarha Rajačića br. 24 
+47,48,49 	45.24179201	19.88164078	OŠ 'Jovan Dučić'	 Petrovaradin, Franje Malina br.2 
+50	45.25701658215185	19.84250135819707	Klub penzionera  'Grozda Gajšin'	 Novi Sad, Njegoševa br. 24 
+51	45.25393811	19.84421464	MZ 'Stari grad'	 Novi Sad, Kralja Aleksandra br.1 
+52,53,54,55,56,57,58,59,60,61,62,63 	45.25444318	19.79745079	OŠ 'I vojvođanska brigada'	 Novi Sad, Seljačkih buna br. 51a 
+64	45.25882901	19.82056377	MZ 'Detelinara' (velika sala)	Novi Sad Braće Popović br. 4
+65,66,67,68,69,194,195 	45.26082239	19.81483817	Škola za dizajn 'Bogdan Šuput'	 Novi Sad, Janka Veselinovića  br.22 
+70	45.29181251	19.74416671	MK 'Rumenka'	 Rumenka, Vojvođanska br. 19 
+71	45.29545779	19.74734901	OŠ 'Sveti Sava'	 Rumenka, Jovana Jovanovića Zmaja br. 24 
+72	45.29646236	19.73809693	Penzionerski dom	 Rumenka, Cara Lazara br. 68a 
+73,74 	45.26423998	19.81402506	MZ 'Radnički' (Klub penzionera)(velika sala)	 Novi Sad, Braće Mogin br. 2/1 
+75,76 	45.26639895	19.81221591	OŠ 'Dositej Obradović'	 Novi Sad, Filipa Filipovića br.2 
+77,78 	45.26337726	19.80877608	OŠ 'Svetozar Marković - Toza'	 Novi Sad, Janka Čmelika br. 89 
+79	45.2751136	19.779638	Montažni objekat na Sajlovu	 Novi Sad, Gornje Sajlovo 37b 
+80,81 	45.26360103	19.81087247	MZ 'Jugovićevo'	 Novi Sad, Tarasa Ševčenka br.1 
+82,84,85,86 	45.2958994	19.82616606	OŠ 'Dušan Radović'	 Novi Sad, Velebitska bb 
+83	45.29941851	19.82673351	MZ 'Klisa'	 Novi Sad, Savska br. 27 
+87,88,89 	45.28938807525816	19.82709289259037	OŠ 'Dušan Radović'	 Novi Sad, Čenejska br. 61 
+90	45.28974283103075	19.827286011639444	MZ 'Slana bara'	 Novi Sad, Čenejska br. 54 
+91,92 	45.282786898756825	19.82609513674015	MZ 'Vidovdansko naselje' (velika sala) (mala sala)	 Novi Sad, Dr Jovana Andrejevića br. 2a 
+93	45.369524981707464	19.834208747637945	MZ 'Čenej'	 Čenej', Vuka Karadžića br. 289 
+94	45.32562538109554	19.801959530566364	MZ 'Pejićevi salaši - Nemanovci'	 Čenej, Pejićevi salaoi br. 33 
+95	45.347591073453586	19.870658223278838	Vatrogasni dom	 Kisač, Slovačka br. 43 
+96	45.349988828365774	19.727963766687026	KIC 'Kisač'	 Kisač, Slovačka br. 22 
+97,98 	45.356985480871735	19.722803196542372	OŠ 'Ljudevit Štur'	 Kisač, Železnička br. 3 
+99	45.25863635	19.850473299999976	KUD 'Svetozar Marković'	 Novi Sad, Šumadijska br. 6 
+100	45.26087509283633	19.853161912316864	OŠ 'Đura Daničić'	 Novi Sad, Dušana Vasiljeva br. 19 
+101	45.259916004585754	19.851584773416107	OŠ 'Pinki'	 Novi Sad, Šumadijska br. 12 
+102	 45.2584324	19.849006400000007	MZ 'Podbara'	 Novi Sad, Kosovska br. 41 
+103,104,105 	45.264545906808266	19.845600346557603	OŠ 'Ivan Gundulić'	 Novi Sad, Gundulićeva br. 9 
+106	45.26828293728121	19.8387960008331	OŠ 'Vuk Karadžić'	 Novi Sad, Radoja Domanovića br.24 
+107	45.27242010513887	19.8386349243591	MZ 'Salajka'	 Novi Sad, Šajkaška br. 26 
+108	45.271474	19.836085799999978	JKP 'Vodovod i kanalizacija'	 Novi Sad, Đorđa Zličića br. 27 
+109	45.27281831693715	19.874760470114097	MZ 'Šangaj'	NoviSad Ulica VIII br.8
+110,111 	45.30354255006489	19.923470001327587	OŠ 'Đura Jakšić'	 Kać, Vinogradarska br. 3 
+112	45.30008786	19.93956173	OŠ 'Đura Jakšić'	 Kać, Vojina P. Aleksića br. 3 
+113,114,115	45.29969543	19.94057024	OŠ 'Đura Jakšić'	 Kać, Kralja Petra I br. 9 
+116,117 	45.27931131	19.99364605	OŠ 'Ivo Andrić'	 Budisava, Školska br. 3 
+118	45.23015886	20.02270951	MZ 'Kovilj'	 Kovilj, Laze Kostića br. 70 
+119	45.23186647	20.02480164	AKUD 'Laza Kostić'	 Kovilj, Laze Kostića br. 113 
+120,121 	45.22528424	20.0215209	OŠ 'Laza Kostić'	 Kovilj, Laze Kostića br. 42 
+122	45.26248919	19.82314914	MZ 'Omladinski pokret'	 Novi Sad, Omladinskog pokreta br. 11 
+123	45.2623354	19.8239989	Klub penzionera  '23. oktobar'	 Novi Sad, Pariske komune br. 44 
+124,125,127 	45.26173668	19.82833207	SŠC 'Mileva Marić Ajnštajn'	 Novi Sad, Gagarinova br. 1 
+126	45.25997999	19.82817511	Srednja mašinska škola	 Novi Sad, Bulevar kralja Petra1br. 38 
+128	45.2641834	19.832055	MZ 'Sava Kovačević'	 Novi Sad, Save Kovačevića br. 15 
+129,130 	45.2643768	19.8356435	OŠ 'Kosta Trifković'	 Novi Sad, Berislava Berića br.2 
+131	45.25250398	19.85529627	MZ 'Sonja Marinković'	 Novi Sad, Kej žrtava racije br. 4 
+132,133 	45.25143779	19.85372132	OŠ 'Đorđe Natošević'	 Novi Sad, Maksima Gorkog br. 54 
+134,135,136 	45.24439953	19.84945737	OŠ 'Jovan Popović'	 Novi Sad, Dr Ilije Đuričića br.2 
+137,138,139,140 	45.2412875	19.8458957	OŠ 'Jovan Popović'	 Novi Sad, Ravanička br. 2 
+141	45.2411097	19.847782999999936	MZ 'Boško Buha'	 Novi Sad, Fruškogorska br. 8 
+142,143,144,145,146,147 	45.23727833	19.83647857	OŠ 'Žarko Zrenjanin'	 Novi Sad, Bulevar despota Stefana br. 8 
+148	45.24109328	19.83091899	Doma zdravlja 'Liman'- Upravna zgrada	 Novi Sad, Bulevar cara Lazara br. 75 
+149	45.2380326	19.8286754	MZ 'Ivo Andrić'	 Novi Sad, Banović Strahinje br. 20 
+150	45.22311458	19.84226332	Nacionalni park 'Fruška gora'	 Sremska Kamenica, Trg Zmaj Jove br.1 
+151	45.2075344	19.8444633	MK' Sremska Kamenica'	 Sremska Kamenica, Trg kralja Petra  I br. 1 
+152	45.2105025	19.8468059	DGP 'Partizanski put'	 Sremska Kamenica, Dr Ketrin Mekfeil br. 41 
+153,154	45.22046294	19.84802482	MZ 'Sremska Kamenica' (Velika sala)(prostorija JKP'Tržnica')	Sremska Kamenica. Marka Oreškovića 1a
+155	45.21484012	19.83343361	Montažni objekat na Paragovu	 Sremska Kamenica, Iriški put br.17 
+156	45.2235838	19.8532612	PU 'Radosno detinjstvo' objekat 'Plavi čuperak'	 Sremska Kamenica, Svetozara Miletića br. 16 
+157	45.2235302	19.8426281	OŠ 'Jovan Jovanović Zmaj'	 Sremska Kamenica, Školska br.2 
+158	45.2100533	19.8048359	MZ 'Ledinci'	 Ledinci, Zmaj Jovina br. 19 
+159	45.18644548	19.80404735	MZ 'Stari Ledinci'	 Stari Ledinci, Vuka Karadžića br.98 
+160	45.1958174	19.8923296	MK'Bukovac'	 Bukovac, Karađorđeva br. 76 
+161	45.1923678	19.892852	MZ 'Bukovac'	 Bukovac, Vidovdanska br. 14 
+162	45.2375661	19.8308319	MZ 'Ostrvo'	 Novi Sad, Narodnog fronta br. 71 
+163	45.23900709	19.83405448	Prijemna kancelarija 'Liman'	 Novi Sad, Narodnog fronta br. 53 
+164	45.2491023	19.829706	Klub penzionera 'Olga Petrov'	 Novi Sad, Futoška br. 67 
+165,166 	45.2465793	19.8266824	OŠ 'Vasa Stajić'	 Novi Sad, Vojvode Knićanina br. 126 
+167,169,170 	45.24376835	19.82685149	Medicinska škola '7. april'	Novi Sad Vojvode Knićanina br.1
+168	45.24174871	19.82626744	MZ '7. juli'	 Novi Sad, Miše Dimitrijevića br. 74a 
+171	45.24547265	19.83636007	MZ 'Vera Pavlović'	 Novi Sad, Gogoljeva br. 1 
+172,173,174 	45.243819	19.8335489	OŠ 'Sonja Marinković'	 Novi Sad, Puokinova br. 28 
+175,176 	45.24872739	19.83510736	Tehnička škola 'Mileva Marić- Ajnštajn'	 Novi Sad, Braće Ribnikar br. 40 
+177	45.25287526	19.84330347	MZ '1. vojvođanska brigada'	 Novi Sad, Narodnih heroja br. 5 
+178	45.25245046	19.84361554	 Srednja škola'Svetozar Miletić', 	 Novi Sad, Narodnih heroja br. 7 
+179	45.24715247	19.84034301	Nacionalna služba za zapošljavanje	 Novi Sad, Alberta Tome br. 2 
+180	45.25215147	19.84495406	LD 'Železnice Srbije'	 Novi Sad, Vase Stajića br. 2 
+181	45.253826	19.837671	MZ 'Žitni trg'	 Novi Sad, Gajeva br. 30 
+182,183,184,185,196 	45.25969271	19.8364517	OŠ 'Ivo Lola Ribar'	Novi Sad Kraljevića Marka br. 2a
+186	45.2580677	19.8314193	PU 'Radosno detinjstvo' objekat 'Pašića'	 Novi Sad, Branimira Ćosića br. 40 
+187,188 	45.2585711	19.8281431	MZ 'Narodni heroji'	 Novi Sad, Majevička br. 26 
+189	45.2577644	19.8248912	Preduzeća 'DES'	 Novi Sad, Bogdana Garabantina br. 3 
+190,191,192 	45.25431626	19.8295774	OŠ 'Petefi Šandor'	 Novi Sad, Bore Prodanovića br. 15a 

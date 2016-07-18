@@ -1,0 +1,25 @@
+<?php
+set_time_limit(60);
+	$file = 'install/addition.txt';
+	// Open the file to get existing content
+	$current = file_get_contents($file);
+	require("./includes/connection.php");
+	// Upis u bazu podataka primljenih poruka
+	$biracka_mesta=explode("\n",$current);
+	foreach($biracka_mesta as $biracko_mesto){
+		$b_mesto=explode("\t",$biracko_mesto);
+			$r_br=$b_mesto[0];
+			$naziv_birackog_mesta=$b_mesto[1];
+			$adresa_birackog_mesta=$b_mesto[2];
+			$default_upisano_biraca=$b_mesto[3];
+			
+		$sql = "UPDATE izbor SET default_upisano_biraca=$default_upisano_biraca WHERE redni_broj_izbornog_mesta=$r_br";
+		echo $sql."<br>\n";
+		if (!$results = $connection->query($sql)){
+			die('Ne mogu da izvrsim upit zbog ['. $connection->error . "]");
+		}
+	}
+
+	//file_put_contents($file, $current);
+	require("./includes/dbcloseconnection.php");
+?>
