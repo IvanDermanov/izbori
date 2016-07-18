@@ -1,0 +1,197 @@
+1	OŠ `Veljko Petrović`	Begeč, Kralja Petra I br. 36	1405
+2	Dom kulture `Begeč` (mala sala)	Begeč, Kralja Petra I br. 1	1532
+3	Kulturni centar `Mladost`	Futog, Sime Šolaje br. 52	1406
+4	Kulturni centar `Mladost`	Futog, Sime Šolaje br. 52	1600
+5	Kulturni centar `Mladost`	Futog, Sime Šolaje br. 52	1395
+6	Vatrogasni dom	Futog, Cara Lazara br. 13	1620
+7	Klub penzionera	Futog, Cara Lazara br. 22	1457
+8	Dom Mesne zajednice (kancelarija 1)(velika sala)(kancelarija 2)	Futog, Cara Lazara br. 141	1644
+9	Dom Mesne zajednice (kancelarija 1)(velika sala)(kancelarija 2)	Futog, Cara Lazara br. 141	1689
+10	Dom Mesne zajednice (kancelarija 1)(velika sala)(kancelarija 2)	Futog, Cara Lazara br. 141	1749
+11	OŠ `Miroslav Antić`	Futog, Rade Končara br. 2	1472
+12	OŠ `Miroslav Antić`	Futog, Rade Končara br. 2	1584
+13	OŠ `Miroslav Antić`	Futog, Rade Končara br. 2	1329
+14	MZ `Stepanovićevo`	Stepanovićevo, Vojvode Stepe Stepanovića br. 112	1755
+15	OŠ `Mihajlo Pupin`	Veternik, Kralja Aleksandra br. 38	1799
+16	OŠ `Mihajlo Pupin`	Veternik, Kralja Aleksandra br. 38	1779
+17	OŠ `Mihajlo Pupin`	Veternik, Kralja Aleksandra br. 38	1810
+18	OŠ `Mihajlo Pupin`	Veternik, Kralja Aleksandra br. 38	2024
+19	MZ `Veternik` (velika sala)	Veternik, Ive Lole Ribara br. 1a	1810
+20	OŠ `Mihajlo Pupin`	Veternik, Kralja Aleksandra br. 38	1872
+21	OŠ `Mihajlo Pupin`	Veternik, Kralja Aleksandra br. 38	1970
+22	MZ `Adice` (velika sala)	Novi Sad, Sima Šolaje 2a	2056
+23	SŠ `Dositej Obradović`	Novi Sad, Suvoborska br. 6	1851
+24	MZ `Adice` (velika sala)	Novi Sad, Sima Šolaje 2a	1992
+25	OŠ `Miloš Crnjanski`	Novi Sad, Anđe Ranković br. 2	1572
+26	OŠ `Miloš Crnjanski`	Novi Sad, Anđe Ranković br. 2	1767
+27	OŠ `Miloš Crnjanski`	Novi Sad, Anđe Ranković br. 2	1592
+28	OŠ `Miloš Crnjanski`	Novi Sad, Anđe Ranković br. 2	1419
+29	OŠ `Miloš Crnjanski`	Novi Sad, Anđe Ranković br. 2	1577
+30	OŠ `Miloš Crnjanski`	Novi Sad, Anđe Ranković br. 2	1637
+31	OŠ `Miloš Crnjanski`	Novi Sad, Anđe Ranković br. 2	1514
+32	OŠ `Miloš Crnjanski`	Novi Sad, Anđe Ranković br. 2	1506
+33	MZ `Južni Telep`	Novi Sad, Janošikova br. 1a	2179
+34	MZ `Južni Telep`	Novi Sad, Janošikova br. 1a	1764
+35	MZ `Južni Telep`	Novi Sad, Janošikova br. 1a	1844
+36	MZ `Bratstvo -Telep`	Novi Sad, Ilariona Ruvarca br. 18a	1675
+37	OŠ `Jožef Atila`	Novi Sad, Šarplaninska br. 28	2207
+38	OŠ `Jožef Atila`	Novi Sad, Šarplaninska br. 28	2007
+39	MZ `Nikola Tesla - Telep`	Novi Sad, Geri Karolja br.5	2192
+40	MZ `Nikola Tesla - Telep`	Novi Sad, Geri Karolja br.5	1908
+41	MZ `Nikola Tesla - Telep`	Novi Sad, Geri Karolja br.5	2115
+42	OŠ `Jovan Dučić`	Petrovaradin, Preradovićeva br.6	1338
+43	MZ `Petrovaradin` (velika sala),(mala sala)	Petrovaradin, Čajkovskog br. 1a	1740
+44	MZ `Petrovaradin` (velika sala),(mala sala)	Petrovaradin, Čajkovskog br. 1a	1489
+45	OŠ `Jovan Dučić`	Petrovaradin, Preradovićeva br.6	2149
+46	MZ `Petrovaradin`	Petrovaradin, Patrijarha Rajačića br. 24	1748
+47	OŠ `Jovan Dučić`	Petrovaradin, Franje Malina br.2	2130
+48	OŠ `Jovan Dučić`	Petrovaradin, Franje Malina br.2	2075
+49	OŠ `Jovan Dučić`	Petrovaradin, Franje Malina br.2	1908
+50	Klub penzionera `Grozda Gajšin`	Novi Sad, Njegoševa br. 24	1779
+51	MZ `Stari grad`	Novi Sad, Kralja Aleksandra br.1	1652
+52	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1545
+53	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1602
+54	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1292
+55	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1537
+56	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1359
+57	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1622
+58	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1624
+59	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1854
+60	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1465
+61	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1317
+62	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1323
+63	OŠ `I vojvođanska brigada`	Novi Sad, Seljačkih buna br. 51a	1546
+64	MZ `Detelinara` (velika sala)	Novi Sad Braće Popović br. 4	1809
+65	Škola za dizajn `Bogdan Šuput`	Novi Sad, Janka Veselinovića br.22	2165
+66	Škola za dizajn `Bogdan Šuput`	Novi Sad, Janka Veselinovića br.22	2211
+67	Škola za dizajn `Bogdan Šuput`	Novi Sad, Janka Veselinovića br.22	2237
+68	Škola za dizajn `Bogdan Šuput`	Novi Sad, Janka Veselinovića br.22	1914
+69	Škola za dizajn `Bogdan Šuput`	Novi Sad, Janka Veselinovića br.22	2210
+70	MK `Rumenka`	Rumenka, Vojvođanska br. 19	2098
+71	OŠ `Sveti Sava`	Rumenka, Jovana Jovanovića Zmaja br. 24	1633
+72	Penzionerski dom	Rumenka, Cara Lazara br. 68a	1945
+73	MZ `Radnički` (Klub penzionera)(velika sala)	Novi Sad, Braće Mogin br. 2/1	1612
+74	MZ `Radnički` (Klub penzionera)(velika sala)	Novi Sad, Braće Mogin br. 2/1	1492
+75	OŠ `Dositej Obradović`	Novi Sad, Filipa Filipovića br.2	1980
+76	OŠ `Dositej Obradović`	Novi Sad, Filipa Filipovića br.2	1924
+77	OŠ `Svetozar Marković - Toza`	Novi Sad, Janka Čmelika br. 89	1860
+78	OŠ `Svetozar Marković - Toza`	Novi Sad, Janka Čmelika br. 89	1220
+79	Montažni objekat na Sajlovu	Novi Sad, Gornje Sajlovo 37b	2222
+80	MZ `Jugovićevo`	Novi Sad, Tarasa Ševčenka br.1	1866
+81	MZ `Jugovićevo`	Novi Sad, Tarasa Ševčenka br.1	1993
+82	OŠ `Dušan Radović`	Novi Sad, Velebitska bb	1185
+83	MZ `Klisa`	Novi Sad, Savska br. 27	1769
+84	OŠ `Dušan Radović`	Novi Sad, Velebitska bb	1871
+85	OŠ `Dušan Radović`	Novi Sad, Velebitska bb	1384
+86	OŠ `Dušan Radović`	Novi Sad, Velebitska bb	1111
+87	OŠ `Dušan Radović`	Novi Sad, Čenejska br. 61	1497
+88	OŠ `Dušan Radović`	Novi Sad, Čenejska br. 61	1536
+89	OŠ `Dušan Radović`	Novi Sad, Čenejska br. 61	1579
+90	MZ `Slana bara`	Novi Sad, Čenejska br. 54	1458
+91	MZ `Vidovdansko naselje` (velika sala) (mala sala)	Novi Sad, Dr Jovana Andrejevića br. 2a	2175
+92	MZ `Vidovdansko naselje` (velika sala) (mala sala)	Novi Sad, Dr Jovana Andrejevića br. 2a	2091
+93	MZ `Čenej`	Čenej`, Vuka Karadžića br. 289	1545
+94	MZ `Pejićevi salaši - Nemanovci`	Čenej, Pejićevi salaoi br. 33	249
+95	Vatrogasni dom	Kisač, Slovačka br. 43	1066
+96	KIC `Kisač`	Kisač, Slovačka br. 22	1093
+97	OŠ `Ljudevit Štur`	Kisač, Železnička br. 3	1014
+98	OŠ `Ljudevit Štur`	Kisač, Železnička br. 3	1274
+99	KUD `Svetozar Marković`	Novi Sad, Šumadijska br. 6	1532
+100	OŠ `Đura Daničić`	Novi Sad, Dušana Vasiljeva br. 19	1283
+101	OŠ `Pinki`	Novi Sad, Šumadijska br. 12	1852
+102	MZ `Podbara`	Novi Sad, Kosovska br. 41	1783
+103	OŠ `Ivan Gundulić`	Novi Sad, Gundulićeva br. 9	1634
+104	OŠ `Ivan Gundulić`	Novi Sad, Gundulićeva br. 9	2188
+105	OŠ `Ivan Gundulić`	Novi Sad, Gundulićeva br. 9	1566
+106	OŠ `Vuk Karadžić`	Novi Sad, Radoja Domanovića br.24	2057
+107	MZ `Salajka`	Novi Sad, Šajkaška br. 26	1864
+108	JKP `Vodovod i kanalizacija`	Novi Sad, Đorđa Zličića br. 27	1602
+109	MZ `Šangaj`	NoviSad Ulica VIII br.8	1414
+110	OŠ `Đura Jakšić`	Kać, Vinogradarska br. 3	1758
+111	OŠ `Đura Jakšić`	Kać, Vinogradarska br. 3	1477
+112	OŠ `Đura Jakšić`	Kać, Vojina P. Aleksića br. 3	1766
+113	OŠ `Đura Jakšić`	Kać, Kralja Petra I br. 9	1565
+114	OŠ `Đura Jakšić`	Kać, Kralja Petra I br. 9	1915
+115	OŠ `Đura Jakšić`	Kać, Kralja Petra I br. 9	1938
+116	OŠ `Ivo Andrić`	Budisava, Školska br. 3	1588
+117	OŠ `Ivo Andrić`	Budisava, Školska br. 3	1719
+118	MZ `Kovilj`	Kovilj, Laze Kostića br. 70	1234
+119	AKUD `Laza Kostić`	Kovilj, Laze Kostića br. 113	1266
+120	OŠ `Laza Kostić`	Kovilj, Laze Kostića br. 42	1006
+121	OŠ `Laza Kostić`	Kovilj, Laze Kostića br. 42	1037
+122	MZ `Omladinski pokret`	Novi Sad, Omladinskog pokreta br. 11	1950
+123	Klub penzionera `23. oktobar`	Novi Sad, Pariske komune br. 44	1377
+124	SŠC `Mileva Marić Ajnštajn`	Novi Sad, Gagarinova br. 1	1328
+125	SŠC `Mileva Marić Ajnštajn`	Novi Sad, Gagarinova br. 1	1493
+126	Srednja mašinska škola	Novi Sad, Bulevar kralja Petra1br. 38	1559
+127	SŠC `Mileva Marić Ajnštajn`	Novi Sad, Gagarinova br. 1	1388
+128	MZ `Sava Kovačević`	Novi Sad, Save Kovačevića br. 15	1105
+129	OŠ `Kosta Trifković`	Novi Sad, Berislava Berića br.2	1634
+130	OŠ `Kosta Trifković`	Novi Sad, Berislava Berića br.2	1830
+131	MZ `Sonja Marinković`	Novi Sad, Kej žrtava racije br. 4	1747
+132	OŠ `Đorđe Natošević`	Novi Sad, Maksima Gorkog br. 54	1903
+133	OŠ `Đorđe Natošević`	Novi Sad, Maksima Gorkog br. 54	1705
+134	OŠ `Jovan Popović`	Novi Sad, Dr Ilije Đuričića br.2	1606
+135	OŠ `Jovan Popović`	Novi Sad, Dr Ilije Đuričića br.2	1471
+136	OŠ `Jovan Popović`	Novi Sad, Dr Ilije Đuričića br.2	562
+137	OŠ `Jovan Popović`	Novi Sad, Ravanička br. 2	1452
+138	OŠ `Jovan Popović`	Novi Sad, Ravanička br. 2	1159
+139	OŠ `Jovan Popović`	Novi Sad, Ravanička br. 2	1301
+140	OŠ `Jovan Popović`	Novi Sad, Ravanička br. 2	1245
+141	MZ `Boško Buha`	Novi Sad, Fruškogorska br. 8	482
+142	OŠ `Žarko Zrenjanin`	Novi Sad, Bulevar despota Stefana br. 8	1708
+143	OŠ `Žarko Zrenjanin`	Novi Sad, Bulevar despota Stefana br. 8	1723
+144	OŠ `Žarko Zrenjanin`	Novi Sad, Bulevar despota Stefana br. 8	1409
+145	OŠ `Žarko Zrenjanin`	Novi Sad, Bulevar despota Stefana br. 8	1745
+146	OŠ `Žarko Zrenjanin`	Novi Sad, Bulevar despota Stefana br. 8	1601
+147	OŠ `Žarko Zrenjanin`	Novi Sad, Bulevar despota Stefana br. 8	1358
+148	Doma zdravlja `Liman`- Upravna zgrada	Novi Sad, Bulevar cara Lazara br. 75	1671
+149	MZ `Ivo Andrić`	Novi Sad, Banović Strahinje br. 20	1504
+150	Nacionalni park `Fruška gora`	Sremska Kamenica, Trg Zmaj Jove br.1	1261
+151	MK` Sremska Kamenica`	Sremska Kamenica, Trg kralja Petra I br. 1	1228
+152	DGP `Partizanski put`	Sremska Kamenica, Dr Ketrin Mekfeil br. 41	670
+153	MZ `Sremska Kamenica` (Velika sala)(prostorija JKP`Tržnica`)	Sremska Kamenica. Marka Oreškovića 1a	1506
+154	MZ `Sremska Kamenica` (Velika sala)(prostorija JKP`Tržnica`)	Sremska Kamenica. Marka Oreškovića 1a	1411
+155	Montažni objekat na Paragovu	Sremska Kamenica, Iriški put br.17	1341
+156	PU `Radosno detinjstvo` objekat `Plavi čuperak`	Sremska Kamenica, Svetozara Miletića br. 16	2067
+157	OŠ `Jovan Jovanović Zmaj`	Sremska Kamenica, Školska br.2	1585
+158	MZ `Ledinci`	Ledinci, Zmaj Jovina br. 19	1642
+159	MZ `Stari Ledinci`	Stari Ledinci, Vuka Karadžića br.98	825
+160	MK`Bukovac`	Bukovac, Karađorđeva br. 76	1989
+161	MZ `Bukovac`	Bukovac, Vidovdanska br. 14	1420
+162	MZ `Ostrvo`	Novi Sad, Narodnog fronta br. 71	2139
+163	Prijemna kancelarija `Liman`	Novi Sad, Narodnog fronta br. 53	2006
+164	Klub penzionera `Olga Petrov`	Novi Sad, Futoška br. 67	1480
+165	OŠ `Vasa Stajić`	Novi Sad, Vojvode Knićanina br. 126	1452
+166	OŠ `Vasa Stajić`	Novi Sad, Vojvode Knićanina br. 126	2056
+167	Medicinska škola `7. april`	Novi Sad Vojvode Knićanina br.1	1878
+168	MZ `7. juli`	Novi Sad, Miše Dimitrijevića br. 74a	1960
+169	Medicinska škola `7. april`	Novi Sad Vojvode Knićanina br.1	1656
+170	Medicinska škola `7. april`	Novi Sad Vojvode Knićanina br.1	1671
+171	MZ `Vera Pavlović`	Novi Sad, Gogoljeva br. 1	1738
+172	OŠ `Sonja Marinković`	Novi Sad, Puokinova br. 28	1239
+173	OŠ `Sonja Marinković`	Novi Sad, Puokinova br. 28	1427
+174	OŠ `Sonja Marinković`	Novi Sad, Puokinova br. 28	1570
+175	Tehnička škola `Mileva Marić- Ajnštajn`	Novi Sad, Braće Ribnikar br. 40	1568
+176	Tehnička škola `Mileva Marić- Ajnštajn`	Novi Sad, Braće Ribnikar br. 40	1416
+177	MZ `1. vojvođanska brigada`	Novi Sad, Narodnih heroja br. 5	1293
+178	Srednja škola`Svetozar Miletić`,	Novi Sad, Narodnih heroja br. 7	2175
+179	Nacionalna služba za zapošljavanje	Novi Sad, Alberta Tome br. 2	1440
+180	LD `Železnice Srbije`	Novi Sad, Vase Stajića br. 2	1836
+181	MZ `Žitni trg`	Novi Sad, Gajeva br. 30	1833
+182	OŠ `Ivo Lola Ribar`	Novi Sad Kraljevića Marka br. 2a	1713
+183	OŠ `Ivo Lola Ribar`	Novi Sad Kraljevića Marka br. 2a	2045
+184	OŠ `Ivo Lola Ribar`	Novi Sad Kraljevića Marka br. 2a	1877
+185	OŠ `Ivo Lola Ribar`	Novi Sad Kraljevića Marka br. 2a	1604
+186	PU `Radosno detinjstvo` objekat `Pašića`	Novi Sad, Branimira Ćosića br. 40	879
+187	MZ `Narodni heroji`	Novi Sad, Majevička br. 26	1897
+188	MZ `Narodni heroji`	Novi Sad, Majevička br. 26	1889
+189	Preduzeća `DES`	Novi Sad, Bogdana Garabantina br. 3	2053
+190	OŠ `Petefi Šandor`	Novi Sad, Bore Prodanovića br. 15a	2171
+191	OŠ `Petefi Šandor`	Novi Sad, Bore Prodanovića br. 15a	2182
+192	OŠ `Petefi Šandor`	Novi Sad, Bore Prodanovića br. 15a	2203
+193	OŠ `Mihajlo Pupin`	Veternik, Kralja Aleksandra br. 38	1741
+194	Škola za dizajn `Bogdan Šuput`	Novi Sad, Janka Veselinovića br.22	2113
+195	Škola za dizajn `Bogdan Šuput`	Novi Sad, Janka Veselinovića br.22	1637
+196	OŠ `Ivo Lola Ribar`	Novi Sad Kraljevića Marka br. 2a	1917
+197	SŠ `Dositej Obradović`	Novi Sad, Suvoborska br. 6	1860
