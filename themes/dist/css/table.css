@@ -1,0 +1,16 @@
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;margin:0px auto;width:90%}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;border-top-width:1px;border-bottom-width:1px;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;border-top-width:1px;border-bottom-width:1px;}
+.tg .tg-baqh{text-align:center;vertical-align:top;font-weight:bold}
+.tg .tg-lqy6{text-align:center;vertical-align:top}
+.tg .tg-lqy6-Cekanje{text-align:center;vertical-align:top;background:#ff0000}
+.tg .tg-lqy6-Zavrseno{text-align:center;vertical-align:top;background:#00ff00}
+.tg .tg-lqy6-U-toku{text-align:center;vertical-align:top;background:#00ffff}
+.tg .tg-yw4l{text-align:center;vertical-align:top}
+.rezultati .tg-baqh-rez{text-align:center;vertical-align:bottom;font-weight:bold;font-size:11px;width:200px}
+.rezultati .tg-yw4l-rez{text-align:center;vertical-align:middle;font-size:11px;width:200px}
+.rezultati th{font-size:20px; color:red}
+li.lista {margin-bottom:15px}
+.tg-yw4l button{width:150px; font-size:11px}
+.rezultati{overflow-y:scroll;overflow-x:scroll;height:440px;}
+
